@@ -1,7 +1,3 @@
-
-play_arrow
-
-brightness_4
 /* C program for Merge Sort */
 #include <stdio.h> 
 #include <stdlib.h> 
